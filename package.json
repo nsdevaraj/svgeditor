@@ -1,0 +1,18 @@
+{
+  "scripts": {
+    "dev": "webpack --watch",
+    "start": "webpack --watch",
+    "build": "webpack",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "name": "",
+  "version": "",
+  "devDependencies": {
+    "webpack": "^4.16.1",
+    "webpack-cli": "^2.0.15",
+    "webpack-dev-server": "^3.1.5",
+    "css-loader": "^0.28.11",
+    "style-loader": "^0.21.0",
+    "url-loader": "^1.0.1"
+  }
+}

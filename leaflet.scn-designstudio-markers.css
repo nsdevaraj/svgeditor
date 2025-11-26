@@ -1,0 +1,9 @@
+/* Marker setup */
+.designstudio-scn-mapsmarker {
+  position:absolute;
+  left:0;
+  top:0;
+  display: block;
+  text-align: center;
+}
+
